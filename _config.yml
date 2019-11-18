@@ -10,8 +10,8 @@ title:  谁之窗外
 subtitle: 分享技术，品味人生
 name: 谁之窗外
 email: 
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: 谁之窗外,Spring,Spring Boot,Spring Cloud,Jvm,Docker,生活故事,架构,大数据,开发者,编程,代码,开源,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+description: 本站是谁之窗外的技术分享博客。内容涵盖Java后端技术、Spring Boot、Spring Cloud、微服务架构、中间件使用、数据采集等相关的研究与知识分享。
+keywords: 谁之窗外,Spring,Spring Boot,Spring Cloud,Jvm,Docker,架构,大数据,开发者,编程,代码,开源,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.ico 
 
@@ -119,7 +119,7 @@ navs:
 
   -
     
-    href: http://www.justdojava.com
+    href: /java.html
     label: Java
     target: _blank
     subnav:
@@ -127,11 +127,6 @@ navs:
       -
         subHref: /java.html
         subLabel: Jvm 系列文章
-        
-      -
-        subHref: http://www.justdojava.com
-        subLabel: Java 极客技术
-        target: _blank
 
   -
     
@@ -142,11 +137,6 @@ navs:
       -
         subHref: /python.html
         subLabel: Python 教程
-        
-      -
-        subHref: http://www.justdopython.com
-        subLabel: Python 技术
-        target: _blank
 
   -
     href: /archives.html
@@ -166,11 +156,6 @@ labels:
   -
     href: /fastdfs.html
     label: FastDFS
-    target: _blank
-
-  -
-    href: /mongodb.html
-    label: MongoDB
     target: _blank
 
   -
