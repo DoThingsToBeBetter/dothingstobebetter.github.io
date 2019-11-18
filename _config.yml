@@ -99,8 +99,19 @@ navs:
     label: Home
 
   -
+    
+    href: /java.html
+    label: Java
+    target: _blank
+    subnav:
+
+      -
+        subHref: /java.html
+        subLabel: Jvm 系列文章
+
+  -
     href: /spring-boot.html
-    label: Spring Boot
+    label: Spring
     target: _self
     subnav:
 
@@ -111,22 +122,6 @@ navs:
       -
         subHref: /spring-cloud.html
         subLabel: Spring Cloud
-
-  -
-    href: /spring-cloud.html
-    label: Spring Cloud
-    target: _self
-
-  -
-    
-    href: /java.html
-    label: Java
-    target: _blank
-    subnav:
-
-      -
-        subHref: /java.html
-        subLabel: Jvm 系列文章
 
   -
     
@@ -147,11 +142,6 @@ navs:
 
 # labels. my blog key words
 labels:
-
-  -
-    href: /payment.html
-    label: Pay     
-    target: _self
 
   -
     href: /fastdfs.html
