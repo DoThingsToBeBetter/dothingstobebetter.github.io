@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: dothingstobebetter/dothingstobebetter.github.io
 github_url: https://github.com/dothingstobebetter
-url: https://dothingstobebetter.github.io
-##enforce_ssl: ityouknow.com
+url: http://www.sunxiaofan.com
+enforce_ssl: sunxiaofan.com
 
 ## Gem
 plugins:
